@@ -3,7 +3,7 @@
 Requires `barcoderdev/FBX2glTF` to extract FBX in GLTF(glb) format.  Place the binary in the same folder, or in PATH.
 
 ---
-
+ 
 ```bash
 Usage: unitypackage_util <PACKAGE> <COMMAND>
 
